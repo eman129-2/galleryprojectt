@@ -1,0 +1,85 @@
+.lightbox-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+    background-color: #fff; /* Use white background for better contrast */
+    margin: 0 auto;
+    max-width: 800px;
+  }
+  
+  .lightbox-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .lightbox-info {
+    text-align: center;
+  }
+  
+  .lightbox-info h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  .lightbox-info h2 {
+    font-size: 1.5rem;
+    color: #666;
+    margin-bottom: 10px;
+  }
+  
+  .lightbox-info p {
+    font-size: 1rem;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+
+
+
+
+
+
+
+/*
+.lightbox-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+    background-color: #918989;
+  }
+  
+  .lightbox-image {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .lightbox-info {
+    text-align: center;
+  }
+  
+  .lightbox-info h1 {
+    font-size: 2rem;
+  }
+  
+  .lightbox-info h2 {
+    font-size: 1.5rem;
+    color: #666;
+  }
+  
+  .lightbox-info p {
+    font-size: 1rem;
+    color: #333;
+  }
+  .artist{
+    color: rgb(121, 120, 120);
+  }
+  .art{
+font-size: 15px;
+color: aqua;
+  }
